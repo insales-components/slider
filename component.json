@@ -1,0 +1,25 @@
+{
+  "name": "Slider",
+  "version": "1.0.0",
+  "description": "Компонент для реализации слайдеров",
+  "author": "LiquidHub.ru",
+  "type": "plugin",
+  "homepage": "https://github.com/insales-components/slider",
+  "plugins": [
+    {
+      "name": "Swiper",
+      "files": ["https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/js/swiper.min.js", "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/css/swiper.min.css"]
+    },
+    {
+      "name": "InitSwiper",
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InitSwiper@0.2.7/dist/InitSwiper.js"]
+    }
+  ],
+  "props": {
+    "plugins": false,
+    "cellsio": false,
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
