@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Компонент для реализации слайдеров",
   "author": "LiquidHub.ru",
-  "type": "plugin",
+  "type": "snippets",
   "homepage": "https://github.com/insales-components/slider",
   "plugins": [
     {
