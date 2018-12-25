@@ -12,7 +12,7 @@
     },
     {
       "name": "InitSwiper",
-      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InitSwiper@0.2.8/dist/InitSwiper.js"]
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InitSwiper@0.2.9/dist/InitSwiper.js"]
     }
   ],
   "props": {
